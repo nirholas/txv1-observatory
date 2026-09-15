@@ -1,0 +1,11 @@
+{
+  "slug": "txv1-observatory",
+  "name": "TXv1 Observatory",
+  "kind": "trend",
+  "description": "Prepare live-network queries that track v1 adoption, size, fees, and failure rates.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
