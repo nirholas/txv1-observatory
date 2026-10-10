@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "txv1-observatory"
+abstract: "Prepare live-network queries that track v1 adoption, size, fees, and failure rates."
+repository-code: "https://github.com/nirholas/txv1-observatory"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"
