@@ -8,7 +8,7 @@ Prepare live-network queries that track v1 adoption, size, fees, and failure rat
 
 - Source: https://github.com/nirholas/txv1-observatory
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
